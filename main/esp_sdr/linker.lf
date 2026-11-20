@@ -1,0 +1,5 @@
+[mapping:esp_sdr_s3_fft_rnd]
+archive: libmain.a
+entries:
+    s3_fft_rnd (noflash)
+    s3_unpack (noflash)
